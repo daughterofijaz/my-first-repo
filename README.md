@@ -15,4 +15,4 @@ This project is a basic introduction to GitHub, created as the first assignment 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/github-assignment.git 
+   git clone https://github.com/daughterofijaz/my-first-repo.git
