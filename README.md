@@ -1,12 +1,12 @@
-# First Assignment – PUCIT
+# First Assignment – PUCIT 2025
 
 ## Project Title: Introduction to GitHub
 
 This project is a basic introduction to GitHub, created as the first assignment for PUCIT.
 
-## Features
+## Projet Features
 
-- Basic GitHub commands
+- GitHub commands
 - Creating repositories
 - Committing and pushing changes
 - Collaboration overview
