@@ -1,4 +1,5 @@
-# First Assignment – PUCIT 2025
+
+# First Assignment – FCIT
 
 ## Project Title: Introduction to GitHub
 
