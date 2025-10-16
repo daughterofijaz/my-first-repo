@@ -17,3 +17,8 @@ This project is a basic introduction to GitHub, created as the first assignment 
 1. Clone this repository:
    ```bash
    git clone https://github.com/daughterofijaz/my-first-repo.git
+
+## This project was created to:
+- Understand how branching and merging works.
+- Learn how collaborators contribute to a shared repository.
+- Practice Git commands like clone, branch, commit, push, and pull etc
